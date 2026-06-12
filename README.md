@@ -1478,12 +1478,3 @@ procheck /caminho/banco/meubanco
 - [OpenEdge Cookbook](https://github.com/progress/openedge-abl-cookbook)
 
 ---
-
-<div align="center">
-
-**Mantido por:** [seu-usuario](https://github.com/seu-usuario)  
-**Última revisão:** 2025  
-
-*Este repositório reflete experiências reais — cada trecho de código passou por ambiente de produção.*
-
-</div>
