@@ -1475,6 +1475,5 @@ procheck /caminho/banco/meubanco
 - [Progress OpenEdge Docs 12.x](https://docs.progress.com/bundle/openedge-abl-reference-122/page/Contents.html)
 - [Progress Community](https://community.progress.com/)
 - [Progress KnowledgeBase](https://knowledgebase.progress.com/)
-- [OpenEdge Cookbook](https://github.com/progress/openedge-abl-cookbook)
 
 ---
